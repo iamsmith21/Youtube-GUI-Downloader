@@ -25,6 +25,6 @@ Make sure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/youtube-audio-downloader.git
+   git clone https://github.com/iamsmith21/Youtube-GUI-Downloader.git
 
 NOTE: This is the first version. Still adding some essential features.
